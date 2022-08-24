@@ -1,4 +1,3 @@
-![home](https://img.freepik.com/premium-photo/gradient-full-color-background-jpg-fil_489510-34.jpg?w=826)
 <h1 align="center">Hi 👋, I'm Tunde Adekoya</h1>
 <h3 align="center">A software developer specializing in building and designing amazing digital experiences.</h3>
 

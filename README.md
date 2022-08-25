@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tunde Adekoya</h1>
+<h1 align="center">Hello 👋, I'm Tunde Adekoya</h1>
 <h3 align="center">A software developer specializing in building and designing amazing digital experiences.</h3>
 
 - 🔭 I’m currently working on [a hotel application](https://github.com/TundeAdekoya/admosHotelAndSuites-Frontend)

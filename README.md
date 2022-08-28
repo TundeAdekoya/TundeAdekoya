@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@AdekoyaTunde/](https://medium.com/@AdekoyaTunde/)
 
-- 💬 Ask me about **reactjs, Django, python, and Figma**
+- 💬 Ask me about **javaSccript, reactjs, Django, python, and Figma**
 
 - 📫 How to reach me **adekoyatunde101@gmail.com**
 

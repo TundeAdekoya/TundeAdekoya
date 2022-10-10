@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://adekoya-tunde.vercel.app/](https://adekoya-tunde.vercel.app/)
 
+- 👨‍💻 Checkout my socials at [https://linktr.ee/tunde.xyz](https://linktr.ee/tunde.xyz/)
+
 - 📝 I regularly write articles on [https://medium.com/@AdekoyaTunde/](https://medium.com/@AdekoyaTunde/)
 
 - 💬 Ask me about **javaScript, reactjs, Django, python, and Figma**

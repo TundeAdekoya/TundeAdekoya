@@ -1,19 +1,19 @@
 <h1 align="center">Hello 👋, I'm Tunde Adekoya</h1>
-<h3 align="center">A software developer specializing in building and designing amazing digital experiences.</h3>
+<h3 align="center">A designer and developer specializing in building and designing amazing digital experiences.</h3>
 
-- 🔭 I’m currently working on [a hotel application](https://www.admoshotel.com/)
+- 🔭 I’m currently working on [Aople Pay+]([https://www.applepay+.com/](https://apple-pay-plus.vercel.app/))
 
-- 👨‍💻 All of my projects are available at [https://adekoya-tunde.vercel.app/](https://adekoya-tunde.vercel.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://adekoya-tunde.vercel.app/](https://adekoya-tunde.vercel.app/) -->
 
 - 🚀 Checkout my socials at [https://linktr.ee/tunde.xyz](https://linktr.ee/tunde.xyz/)
 
 - 📝 I regularly write articles on [https://medium.com/@AdekoyaTunde/](https://medium.com/@AdekoyaTunde/)
 
-- 💬 Ask me about **javaScript, reactjs, Django, python, and Figma**
+- 💬 Ask me about **Figma, Design Systems, javaScript, reactjs, Django, python, GSAP and Typescript**
 
 - 📫 How to reach me **adekoyatunde101@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/TundeAdekoya/Resume/blob/gh-pages/index.md](https://github.com/TundeAdekoya/Resume/blob/gh-pages/index.md)
+<!-- - 📄 Know about my experiences [https://github.com/TundeAdekoya/Resume/blob/gh-pages/index.md](https://github.com/TundeAdekoya/Resume/blob/gh-pages/index.md) -->
 
 - ⚡ Fun fact **I love playing monopoly and skateboarding**
 

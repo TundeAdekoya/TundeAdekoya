@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Tunde Adekoya</h1>
 <h3 align="center">A designer and developer specializing in building and designing amazing digital experiences.</h3>
 
-- 🔭 I’m currently working on [Apple Pay+]([https://www.applepay+.com/](https://apple-pay-plus.vercel.app/)
+- 🔭 I’m currently working on [Apple Pay+](https://apple-pay-plus.vercel.app/)
 
 <!-- - 👨‍💻 All of my projects are available at [https://adekoya-tunde.vercel.app/](https://adekoya-tunde.vercel.app/) -->
 
-- 🚀 Checkout my socials at [https://linktr.ee/tunde.xyz](https://linktr.ee/tunde.xyz/)
+- 🚀 Checkout my socials at [Linktree](https://linktr.ee/tunde.xyz/)
 
-- 📝 I regularly write articles on [https://medium.com/@AdekoyaTunde/](https://medium.com/@AdekoyaTunde/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@AdekoyaTunde/)
 
 - 💬 Ask me about **Figma, Design Systems, javaScript, reactjs, Django, python, GSAP and Typescript**
 

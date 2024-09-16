@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Tunde Adekoya</h1>
 <h3 align="center">A designer and developer specializing in building and designing amazing digital experiences.</h3>
 
-#- 🔭 I’m currently working on [Apple Pay+](https://apple-pay-plus.vercel.app/)
+/- 🔭 I’m currently working on [Apple Pay+](https://apple-pay-plus.vercel.app/)
 
 <!-- - 👨‍💻 All of my projects are available at [tundeadekoya.com](https://www.tundeadekoya.com/) -->
 

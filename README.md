@@ -13,9 +13,9 @@
 
 - How to reach me **adekoyatunde101@gmail.com**
 
-<!-- - 📄 Know about my experiences [https://github.com/TundeAdekoya/Resume/blob/gh-pages/index.md](https://github.com/TundeAdekoya/Resume/blob/gh-pages/index.md) -->
+<!-- - 📄 Know about my experiences [https://github.com/TundeAdekoya/Resume/blob/gh-pages/index.md](https://github.com/TundeAdekoya/Resume/blob/gh-pages/index.md) 
 
-- Fun fact **I love playing Monopoly and skateboarding**
+- Fun fact **I love playing Monopoly and skateboarding** -->
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">

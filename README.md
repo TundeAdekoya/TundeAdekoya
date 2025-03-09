@@ -3,9 +3,9 @@
 
 <!-- - 🔭 I’m currently working on [Apple Pay+](https://apple-pay-plus.vercel.app/)  -->
 
-- All of my projects are available at [tundeadekoya.com](https://www.tundeadekoya.com/) 
+- All my projects are available at [tundeadekoya.com](https://www.tundeadekoya.com/) 
 
-- Checkout my socials at [Linktree](https://linktr.ee/tunde.xyz/)
+- Check my socials at [Linktree](https://linktr.ee/tunde.xyz/)
 
 <!-- - I regularly write articles on [Medium](https://medium.com/@AdekoyaTunde/) -->
 
@@ -15,7 +15,7 @@
 
 <!-- - 📄 Know about my experiences [https://github.com/TundeAdekoya/Resume/blob/gh-pages/index.md](https://github.com/TundeAdekoya/Resume/blob/gh-pages/index.md) -->
 
-- Fun fact **I love playing monopoly and skateboarding**
+- Fun fact **I love playing Monopoly and skateboarding**
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">

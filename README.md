@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tunde Adekoya</h1>
+<h1 align="center">Hi, I'm Tunde</h1>
 <h3 align="center">Crafting amazing digital experiences.</h3>
 
 <!-- - 🔭 I’m currently working on [Apple Pay+](https://apple-pay-plus.vercel.app/)  -->
